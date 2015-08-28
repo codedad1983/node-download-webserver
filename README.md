@@ -13,5 +13,13 @@ in background.
 
 ## Screenshot
 
+While waiting for links
+
+![Downloading links](https://github.com/arthurlm/node-download-webserver/blob/master/docs/waiting.png?raw=true)
+
+While downloading links :
+
+![Downloading links](https://github.com/arthurlm/node-download-webserver/blob/master/docs/downloading.png?raw=true)
+
 ## Improvment ideas
 * Add a plug-in system to work with download debrider
