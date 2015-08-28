@@ -1,0 +1,24 @@
+{
+  "name": "download-server",
+  "version": "1.0.0",
+  "description": "A simple web download manager write with NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Arthur LE MOIGNE",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthurlm/node-download-webserver.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.2",
+    "jade": "^1.11.0",
+    "morgan": "^1.6.1",
+    "node-uuid": "^1.4.3",
+    "rimraf": "^2.4.3"
+  }
+}
